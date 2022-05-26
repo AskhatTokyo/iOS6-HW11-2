@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  iOS6-HW11
+//  iOS6-HW12
 //
 //  Created by Асхат Джумамуратов on 25.05.2022.
 //
